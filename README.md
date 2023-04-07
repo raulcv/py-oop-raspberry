@@ -7,6 +7,8 @@ Creating people’s classes, including inheritance and polymorphism.
 
 1: clone with git.
 
+You need Python installed in your machine: [![How to Install Python in MacOs](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=Python&logoColor=white)](https://www.freecodecamp.org/espanol/news/como-instalar-python3-en-mac-b/)
+
 | Finally RUN to start and play the Friends and Enemies game
  ```
  python main.py
